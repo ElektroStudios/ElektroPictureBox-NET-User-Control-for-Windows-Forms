@@ -12,7 +12,7 @@ winforms
 
 # ElektroPictureBox
 
-### A Windows Forms .NET user control that enhances the functionality of the base PictureBox control by incorporating additional features like Zoom, with scrollbars, and a selection rectangle.
+### A .NET Windows Forms user control that enhances the functionality of the base PictureBox control by incorporating additional features like Zoom, with scrollbars, and a selection rectangle.
 
 ------------------
 
