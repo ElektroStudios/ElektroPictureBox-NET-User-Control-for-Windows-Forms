@@ -1,30 +1,59 @@
-# **ElektroPictureBox**
+<!-- Common Project Tags:
+dotnet 
+netframework 
+netframework48 
+tool 
+tools 
+vbnet 
+visualstudio 
+windows-forms 
+winforms 
+ -->
 
-**ElektroPictureBox** is a .NET user-control written in VB.NET that extends the base PictureBox control to add additional features such as Zoom with scrollbars, and a selection rectangle.
+# ElektroPictureBox
 
-See the video below for a preview...
+### A Windows Forms .NET user control that enhances the functionality of the base PictureBox control by incorporating additional features like Zoom, with scrollbars, and a selection rectangle.
 
+------------------
+
+## 🎦 Videos
+
+See a recorded video by clicking on the following button:
 [![demoapplication](https://img.youtube.com/vi/An5QlFCPeL4/0.jpg)](https://www.youtube.com/watch?v=An5QlFCPeL4) 
 
-# **Donations**
+## 📝 Requirements
 
-##### Through Paypal:
-If you like my work and want to support it, then please consider to deposit a donation through **Paypal** by clicking on the next button:
+- Visual Studio.
 
-[![Donation Account](Images/Paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY)
+## 🤖 Getting Started
 
-[![Donation Amount](https://img.shields.io/badge/Current%20donations-0%24-red.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY)
+Download the latest release by clicking [here](https://github.com/ElektroStudios/ElektroPictureBox-NET-User-Control-for-Windows-Forms/releases/latest).
 
-You are free to specify whatever amount of money you wish. That money will be sent to my **Paypal** account.
+## ⚠️ Disclaimer:
 
-##### Through Envato:
-If you are a .NET programmer, then maybe you would like to consider the purchase of 
-'**DevCase for .NET Framework**', a powerful set of APIs for .NET developers, created by me. 
+This Work (the repository and the content provided in) is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Work or the use or other dealings in the Work.
 
-You can click the next button to go to the product specifications and the purchase page:
+## 💪 Contributing
 
-[![DevCase for .NET Framework](Images/DevCase%20Banner.png)](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
+Your contribution is highly appreciated!. If you have any ideas, suggestions, or encounter issues, feel free to open an issue by clicking [here](https://github.com/ElektroStudios/ElektroPictureBox-NET-User-Control-for-Windows-Forms/issues/new/choose). 
 
-Note that any source-code within the namespace 'DevCase' included in this **GitHub** repository, was freely extracted and distributed from the commercial library '**DevCase for .NET Framework**'.
+Your input helps make this Work better for everyone. Thank you for your support! 🚀
 
-<u>**Thanks in advance for your consideration!**</u> :thumbsup:
+## 💰 Beyond Contribution 
+
+This work is distributed for educational purposes and without any profit motive. However, if you find value in my efforts and wish to support and motivate my ongoing work, you may consider contributing financially through the following options:
+
+ - ### Paypal:
+    You can donate any amount you like via **Paypal** by clicking on this button:
+
+    [![Donation Account](Images/Paypal_Donate.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E4RQEV6YF5NZY)
+
+ - ### Envato Market:
+   If you are a .NET developer, you may want to explore '**DevCase Class Library for .NET**', a huge set of APIs that I have on sale.
+   Almost all reusable code that you can find across my works is condensed, refined and provided through DevCase Class Library.
+
+    Check out the product:
+    
+   [![DevCase Class Library for .NET](Images/DevCase_Banner.png)](https://codecanyon.net/item/elektrokit-class-library-for-net/19260282)
+
+<u>**Your support means the world to me! Thank you for considering it!**</u> 👍
