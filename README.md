@@ -94,8 +94,6 @@ The authors and copyright holders assume no liability for any direct, indirect, 
 
 Furthermore, this project operates entirely independently. The utilization of any third-party libraries or components within this software does not imply any affiliation with, or endorsement or approval by, their respective original authors.
 
-This software may interact with third-party services, websites, or platforms. It is the user's sole responsibility to ensure that such use complies with the applicable terms of service, laws, and regulations. The authors do not endorse, and are not responsible for, any misuse of this software to violate third-party terms of service or applicable law.
-
 By using this software, you agree to indemnify and hold harmless the authors from any claims, damages, or liabilities arising from your use or misuse of it.
 
 This project is licensed under the **Apache License, Version 2.0**. See the  [License](./LICENSE) file for details.
