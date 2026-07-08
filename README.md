@@ -41,6 +41,8 @@ winforms
     <a href="https://en.wikipedia.org/wiki/Spanish_Empire"><img src="https://img.shields.io/badge/Made_in-Spain_%F0%9F%87%AA%F0%9F%87%B8-AA151B?style=flat" alt="Made in Spain"></a>
 </p>
 
+------------------
+
 ## 💡 Motivation
 
 The standard Windows Forms `PictureBox` is perfect for displaying basic images, but it falls short when you need simple interactive features like zooming, panning with scrollbars, or drawing a selection region. Implementing these behaviors manually requires writing repetitive boilerplate code for mouse events, coordinate translation, and manual image scaling.
