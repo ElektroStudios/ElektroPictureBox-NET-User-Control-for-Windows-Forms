@@ -14,6 +14,10 @@ winforms
 
 ### A .NET Windows Forms user control that enhances the functionality of the base PictureBox control by incorporating additional features like Zoom, with scrollbars, and a selection rectangle.
 
+> [!WARNING]
+> **This repository is archived and is no longer actively maintained.**
+> The content remains available for educational purposes and reference, but no further updates or support will be provided.
+
 ------------------
 
 <p align="center">
@@ -42,6 +46,10 @@ winforms
 </p>
 
 ------------------
+
+## 👋 Introduction
+
+**ElektroPictureBox** is a custom Windows Forms user control that replaces the standard, static `PictureBox` with a fully interactive version. It adds essential functionality such as fluid image zooming, scrollable panning, and mouse-driven selection rectangle support. This control is designed for developers who need image interactivity in their Windows Forms applications without the overhead of writing hundreds of lines of boilerplate code for mouse events and coordinate calculations.
 
 ## 💡 Motivation
 
