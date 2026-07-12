@@ -15,8 +15,9 @@ winforms
 ### A .NET Windows Forms user control that enhances the functionality of the base PictureBox control by incorporating additional features like Zoom, with scrollbars, and a selection rectangle.
 
 > [!WARNING]
-> **This repository is archived and is no longer actively maintained.**
-> The content remains available for educational purposes and reference, but no further updates or support will be provided.
+> **This repository is archived in a read-only state and is no longer maintained.**
+> 
+> This project is no longer updated or supported, but remains available for reference and educational use.
 
 ------------------
 
